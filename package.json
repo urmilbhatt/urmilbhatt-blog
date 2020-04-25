@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "urmilbhatt-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Urmil Bhatt <urmilbhatt12@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/urmilbhatt/urmilbhatt-blog/issues"
   },
   "dependencies": {
     "gatsby": "^2.20.35",
@@ -38,15 +38,13 @@
   "devDependencies": {
     "prettier": "2.0.4"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
+  "homepage": "https://github.com/urmilbhatt/urmilbhatt-blog#readme",
+  "keywords": [],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/urmilbhatt/urmilbhatt-blog.git"
   },
   "scripts": {
     "build": "gatsby build",
